@@ -8,7 +8,7 @@ export const GlobalStyles = createGlobalStyle`
   }
   body {
     background-color: #b9b2b2;
-    color: #000;
+    color: #000000;
     font-family: 'Inter', sans-serif;
   }
-`
+`;
