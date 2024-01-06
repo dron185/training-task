@@ -33,15 +33,18 @@ const ImgWrapper = styled.div`
   width: 280px;
   height: 170px;
 `;
+
 const CardImg = styled.img`
   max-width: 100%;
 `;
+
 const CardTitle = styled.h1`
   margin-left: 10px;
   margin-bottom: 20px;
   font-size: 16px;
   font-weight: 700;
 `;
+
 const CardText = styled.p`
   margin-left: 10px;
   margin-bottom: 19px;
