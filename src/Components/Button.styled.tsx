@@ -21,6 +21,6 @@ export const LeftBtn = styled.button`
 export const RightBtn = styled(LeftBtn)`
   color: #4e71fe;
   border: 2px solid #4e71fe;
-  background: #fff;
+  background: #ffffff;
   box-shadow: 0px 4px 20px 5px rgba(0, 0, 0, 0.1);
 `;
